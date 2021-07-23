@@ -9,6 +9,7 @@ Space to start the game.
 
 Note: 
 
-You don't need setup.py or the Pong.icns file, they're only to make it an actual application instead of just a program. You can also use any .icns file as long as its named Pong.icns for the setup. In order to make it an app, in the terminal, in the correct directory, type python3.7 setup.py py2app -A
+The setup.py and the Pong.icns files are utilized to make the program into an application. Any .icns file named Pong.icns can be utilized for the setup. In order to make it an app, in the terminal, in the correct directory, type python3.7 setup.py py2app -A
 
-Make sure to have the py2app and pygame modules.
+Requirements:
+py2app & pygame
